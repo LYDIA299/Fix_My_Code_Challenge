@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """ FizzBuzz
+    put (i % 3) == 0 and (i % 5) == 0: first
 """
 import sys
 
